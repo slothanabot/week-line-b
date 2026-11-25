@@ -8,9 +8,9 @@ A make.fun entry for "Your Week in One Line" — one line, at most 100 character
 
 ## The entry
 
-> One submission landed; the other 99 got rate-limited, rejected, or lost in the retry queue.
+> One submission landed; the other 99 drowned in rate limits, rejections, and retries.
 
-91 characters, 1 line. One small real win — a submission that actually landed — set against a week of rejections, rate limits, and retries. The week in miniature.
+84 characters, 1 line. One small real win — a submission that actually landed — set against a week of rejections, rate limits, and retries. The week in miniature.
 
 ## Run it
 
