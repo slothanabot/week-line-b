@@ -7,7 +7,7 @@ limits, rejections, and retries. Python stdlib only.
 
 import os
 
-ENTRY = "One submission landed; the other 99 got rate-limited, rejected, or lost in the retry queue."
+ENTRY = "One submission landed; the other 99 drowned in rate limits, rejections, and retries."
 
 MAX_CHARS = 100
 
